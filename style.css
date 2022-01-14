@@ -23,7 +23,21 @@ main{
 main > section img {
     height: 300px;
     margin: 15px 0;
-    width: 300px;
-    
+    width: 300px;  
+}
+
+main> section button{
+        background-color: deepskyblue;
+        border: none;
+        border-radius: 4px;
+        color: white;
+        font-family: Euclidbold;
+        font-size: 19px;
+        font-weight: 400;
+        letter-spacing: -0.6px;
+        line-height: 25px;
+        text-transform: uppercase;
+        padding: 9px 23px;
+
 
 }
