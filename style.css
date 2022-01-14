@@ -37,7 +37,7 @@ main> section button{
         letter-spacing: -0.6px;
         line-height: 25px;
         text-transform: uppercase;
-        padding: 9px 9px;
+        padding: 9px 23px;
 }
 
 #detalhes-container {
@@ -46,4 +46,9 @@ main> section button{
     height: 30px;
     width: 90%;
 
+}
+
+#detalhes-container> li{
+align-items: baseline;
+display: flex;
 }
